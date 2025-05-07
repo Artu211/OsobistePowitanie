@@ -24,7 +24,7 @@
         android:id="@+id/edittext"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
-        android:text="Twoje imię"
+        android:hint="Twoje imię"
         android:layout_marginBottom="20dp" />
 
     <Button
